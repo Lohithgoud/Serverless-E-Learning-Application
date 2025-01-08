@@ -1,2 +1,2 @@
 # Serverless-E-Learning-Application
-Serverless E-Learning Application Using Generative AI and AWS Bedrock
+Scalable serverless e-learning application powered by AWS Bedrock, Generative AI, and advanced NLP techniques.
